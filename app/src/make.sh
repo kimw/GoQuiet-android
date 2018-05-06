@@ -12,7 +12,7 @@ function try () {
 "$@" || exit -1
 }
 
-ANDROID_NDK_HOME="C:\Users\Qian\AppData\Local\Android\Sdk\ndk-bundle"
+ANDROID_NDK_HOME="/home/kim/Android/ndk-bundle"
 
 [ -z "$ANDROID_NDK_HOME" ] #&& ANDROID_NDK_HOME=$ANDROID_HOME/ndk-bundle
 

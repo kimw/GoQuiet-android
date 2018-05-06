@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+
+/.deps/
+/app/src/.deps/
+/app/src/main/jniLibs/
